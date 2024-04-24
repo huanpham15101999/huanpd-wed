@@ -1,0 +1,26 @@
+{
+	"couples": [
+		{
+			"name": "Phạm Đình Huấn",
+			"sosmed": [
+				{ "icon": "fab fa-facebook", "link": "https://www.facebook.com/huanpham1510" },
+				{ "icon": "fa fa-envelope", "link": "mailto:huanpham15101999@gmail.com" },
+				{ "icon": "fa fa-mobile", "link": "callto:0941041580" }
+			],
+			"parents": ["Phạm Đình Chiến", "Trần Thị Thu"],
+			"thumb": "/couples/couple-male.jpg",
+			"address": "Yên Bình, Ý Yên, Nam Định"
+		},
+		{
+			"name": "Mai Phạm Mai Anh",
+			"sosmed": [
+				{ "icon": "fab fa-facebook", "link": "https://www.facebook.com/maianh.maipham" },
+				{ "icon": "fa fa-envelope", "link": "mailto:meianh.mp@gmail.com" },
+				{ "icon": "fa fa-mobile", "link": "callto:0944056291" }
+			],
+			"parents": ["Mai Thanh Bình", "Mai Thị Huệ"],
+			"thumb": "/couples/couple-female.jpg",
+			"address": "Thị Trấn Lâm, Ý Yên, Nam Định"
+		}
+	]
+}

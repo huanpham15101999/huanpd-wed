@@ -1,0 +1,42 @@
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+p,
+a,
+i,
+h1,
+h2,
+strong,
+small,
+button {
+	font-family: 'Noto Sans', sans-serif;
+}
+
+.satisfy-font {
+	font-family: 'Satisfy', cursive;
+}
+
+.pacifico-font {
+	font-family: 'Pacifico', cursive;
+}
+
+.dancing-script-font {
+	font-family: 'Dancing Script', cursive;
+}
+
+.noto-sans-font {
+	font-family: 'Noto Sans', cursive;
+}
+
+.kalam-font {
+	font-family: 'Kalam', cursive;
+}
+
+/* Global class */
+.container-section {
+	@apply w-full mx-auto pb-4 md:w-4/12;
+}
